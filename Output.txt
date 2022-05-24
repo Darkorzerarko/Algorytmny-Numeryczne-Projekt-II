@@ -1,0 +1,4006 @@
+x₀ = -5,00
+Metoda Newtona: -1.5581577857218745
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -4,99
+Metoda Newtona: -1.558157785715724
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -4,98
+Metoda Newtona: -1.5581577857100395
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -4,97
+Metoda Newtona: -1.558157785704788
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -4,96
+Metoda Newtona: -1.5581577856999385
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -4,95
+Metoda Newtona: -1.5581577856954627
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -4,94
+Metoda Newtona: -1.5581577856913338
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -4,93
+Metoda Newtona: -1.5581577856875268
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -4,92
+Metoda Newtona: -1.5581577856840183
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -4,91
+Metoda Newtona: -1.5581577856807867
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -4,90
+Metoda Newtona: -1.5581577856778115
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -4,89
+Metoda Newtona: -1.5581577856750737
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -4,88
+Metoda Newtona: -1.5581577856725557
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -4,87
+Metoda Newtona: -1.5581577856702413
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -4,86
+Metoda Newtona: -1.5581577856681148
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -4,85
+Metoda Newtona: -1.5581577856661624
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -4,84
+Metoda Newtona: -1.5581577856643705
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -4,83
+Metoda Newtona: -1.5581577856627267
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -4,82
+Metoda Newtona: -1.5581577856612199
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -4,81
+Metoda Newtona: -1.558157785659839
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -4,80
+Metoda Newtona: -1.5581577856585747
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -4,79
+Metoda Newtona: -1.5581577856574176
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -4,78
+Metoda Newtona: -1.5581577856563589
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -4,77
+Metoda Newtona: -1.5581577856553912
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -4,76
+Metoda Newtona: -1.558157785654507
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -4,75
+Metoda Newtona: -1.5581577856536997
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -4,74
+Metoda Newtona: -1.558157785652963
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -4,73
+Metoda Newtona: -1.5581577856522906
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -4,72
+Metoda Newtona: -1.5581577856516782
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -4,71
+Metoda Newtona: -1.55815778565112
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -4,70
+Metoda Newtona: -1.558157785650612
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -4,69
+Metoda Newtona: -1.5581577856501496
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -4,68
+Metoda Newtona: -1.558157785649729
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -4,67
+Metoda Newtona: -1.558157785649347
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -4,66
+Metoda Newtona: -1.558157785649
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -4,65
+Metoda Newtona: -1.5581577856486852
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -4,64
+Metoda Newtona: -1.5581577856483995
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -4,63
+Metoda Newtona: -1.5581577856481406
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -4,62
+Metoda Newtona: -1.5581577856479059
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -4,61
+Metoda Newtona: -1.5581577856476936
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -4,60
+Metoda Newtona: -1.5581577856475015
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -4,59
+Metoda Newtona: -1.5581577856473277
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -4,58
+Metoda Newtona: -1.5581577856471707
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -4,57
+Metoda Newtona: -1.558157785647029
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -4,56
+Metoda Newtona: -1.5581577856469013
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -4,55
+Metoda Newtona: -1.5581577856467859
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -4,54
+Metoda Newtona: -1.5581577856466822
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -4,53
+Metoda Newtona: -1.5581577856465887
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -4,52
+Metoda Newtona: -1.5581577856465045
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -4,51
+Metoda Newtona: -1.5581577856464288
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -4,50
+Metoda Newtona: -1.5581577856463609
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -4,49
+Metoda Newtona: -1.5581577856462998
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -4,48
+Metoda Newtona: -1.5581577856462452
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -4,47
+Metoda Newtona: -1.5581577856461961
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -4,46
+Metoda Newtona: -1.5581577856461521
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -4,45
+Metoda Newtona: -1.5581577856461128
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -4,44
+Metoda Newtona: -1.5581577856460775
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -4,43
+Metoda Newtona: -1.558157785646046
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -4,42
+Metoda Newtona: -1.558157785646018
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -4,41
+Metoda Newtona: -1.558157785645993
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -4,40
+Metoda Newtona: -1.5581577856459707
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -4,39
+Metoda Newtona: -1.5581577856459508
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -4,38
+Metoda Newtona: -1.558157785645933
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -4,37
+Metoda Newtona: -1.5581577856459172
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -4,36
+Metoda Newtona: -1.5581577856459032
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -4,35
+Metoda Newtona: -1.5581577856458908
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -4,34
+Metoda Newtona: -1.5581577856458797
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -4,33
+Metoda Newtona: -1.55815778564587
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -4,32
+Metoda Newtona: -1.5581577856458613
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -4,31
+Metoda Newtona: -1.5581577856458535
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -4,30
+Metoda Newtona: -1.5581577856458468
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -4,29
+Metoda Newtona: -1.5581577856458408
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -4,28
+Metoda Newtona: -1.5581577856458355
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -4,27
+Metoda Newtona: -1.5581577856458309
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -4,26
+Metoda Newtona: -1.5581577856458269
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -4,25
+Metoda Newtona: -1.5581577856458233
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -4,24
+Metoda Newtona: -1.5581577856458202
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -4,23
+Metoda Newtona: -1.558157785645817
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -4,22
+Metoda Newtona: -1.5581577856458149
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -4,21
+Metoda Newtona: -1.5581577856458126
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -4,20
+Metoda Newtona: -1.5581577856458106
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -4,19
+Metoda Newtona: -1.558157785645809
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -4,18
+Metoda Newtona: -1.5581577856458078
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -4,17
+Metoda Newtona: -1.5581577856458064
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -4,16
+Metoda Newtona: -1.5581577856458053
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -4,15
+Metoda Newtona: -1.5581577856458044
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -4,14
+Metoda Newtona: -1.5581577856458033
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -4,13
+Metoda Newtona: -1.5581577856458029
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -4,12
+Metoda Newtona: -1.5581577856458022
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -4,11
+Metoda Newtona: -1.5581577856458015
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -4,10
+Metoda Newtona: -1.558157785645801
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -4,09
+Metoda Newtona: -1.5581577856458007
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -4,08
+Metoda Newtona: -1.5581577856458002
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -4,07
+Metoda Newtona: -1.5581577856458
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -4,06
+Metoda Newtona: -1.5581577856457998
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -4,05
+Metoda Newtona: -1.5581577856457995
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -4,04
+Metoda Newtona: -1.5581577856457993
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -4,03
+Metoda Newtona: -1.558157785645799
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -4,02
+Metoda Newtona: -1.558157785645799
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -4,01
+Metoda Newtona: -1.5581577856457989
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -4,00
+Metoda Newtona: -1.5581577856457987
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -3,99
+Metoda Newtona: -1.5581577856457987
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -3,98
+Metoda Newtona: -1.5581577856457987
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -3,97
+Metoda Newtona: -1.5581577856457984
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -3,96
+Metoda Newtona: -1.5581577856457984
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -3,95
+Metoda Newtona: -1.5581577856457984
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -3,94
+Metoda Newtona: -1.5581577856457984
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -3,93
+Metoda Newtona: -1.5581577856457984
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -3,92
+Metoda Newtona: -1.5581577856457984
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -3,91
+Metoda Newtona: -1.5581577856457982
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -3,90
+Metoda Newtona: -1.5581577856457982
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -3,89
+Metoda Newtona: -1.5581577856457984
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -3,88
+Metoda Newtona: -1.5581577856457982
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -3,87
+Metoda Newtona: -1.5581577942800453
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -3,86
+Metoda Newtona: -1.5581577935344635
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -3,85
+Metoda Newtona: -1.5581577928480832
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -3,84
+Metoda Newtona: -1.5581577922166439
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -3,83
+Metoda Newtona: -1.5581577916361569
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -3,82
+Metoda Newtona: -1.5581577911028908
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -3,81
+Metoda Newtona: -1.5581577906133572
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -3,80
+Metoda Newtona: -1.5581577901642978
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -3,79
+Metoda Newtona: -1.5581577897526697
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -3,78
+Metoda Newtona: -1.5581577893756344
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -3,77
+Metoda Newtona: -1.5581577890305456
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -3,76
+Metoda Newtona: -1.5581577887149376
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -3,75
+Metoda Newtona: -1.5581577884265152
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -3,74
+Metoda Newtona: -1.5581577881631425
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -3,73
+Metoda Newtona: -1.5581577879228345
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -3,72
+Metoda Newtona: -1.558157787703747
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -3,71
+Metoda Newtona: -1.5581577875041674
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -3,70
+Metoda Newtona: -1.5581577873225088
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -3,69
+Metoda Newtona: -1.5581577871572985
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -3,68
+Metoda Newtona: -1.5581577870071739
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -3,67
+Metoda Newtona: -1.5581577868708731
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -3,66
+Metoda Newtona: -1.5581577867472303
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -3,65
+Metoda Newtona: -1.558157786635167
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -3,64
+Metoda Newtona: -1.558157786533689
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -3,63
+Metoda Newtona: -1.5581577864418783
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -3,62
+Metoda Newtona: -1.558157786358889
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -3,61
+Metoda Newtona: -1.558157786283942
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -3,60
+Metoda Newtona: -1.558157786216321
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -3,59
+Metoda Newtona: -1.558157786155367
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -3,58
+Metoda Newtona: -1.5581577861004752
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -3,57
+Metoda Newtona: -1.55815778605109
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -3,56
+Metoda Newtona: -1.5581577860067022
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -3,55
+Metoda Newtona: -1.5581577859668458
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -3,54
+Metoda Newtona: -1.5581577859310938
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -3,53
+Metoda Newtona: -1.5581577858990558
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -3,52
+Metoda Newtona: -1.558157785870376
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -3,51
+Metoda Newtona: -1.5581577858447286
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -3,50
+Metoda Newtona: -1.5581577858218172
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -3,49
+Metoda Newtona: -1.558157785801372
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -3,48
+Metoda Newtona: -1.558157785783147
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -3,47
+Metoda Newtona: -1.5581577857669189
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -3,46
+Metoda Newtona: -1.558157785752485
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -3,45
+Metoda Newtona: -1.5581577857396616
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -3,44
+Metoda Newtona: -1.5581577857282816
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -3,43
+Metoda Newtona: -1.5581577857181945
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -3,42
+Metoda Newtona: -1.5581577857092634
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -3,41
+Metoda Newtona: -1.5581577857013658
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -3,40
+Metoda Newtona: -1.5581577856943902
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -3,39
+Metoda Newtona: -1.5581577856882365
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -3,38
+Metoda Newtona: -1.5581577856828144
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -3,37
+Metoda Newtona: -1.5581577856780433
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -3,36
+Metoda Newtona: -1.55815778567385
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -3,35
+Metoda Newtona: -1.5581577856701694
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -3,34
+Metoda Newtona: -1.558157785666943
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -3,33
+Metoda Newtona: -1.5581577856641184
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -3,32
+Metoda Newtona: -1.5581577856616493
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -3,31
+Metoda Newtona: -1.5581577856594933
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -3,30
+Metoda Newtona: -1.5581577856576139
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -3,29
+Metoda Newtona: -1.5581577856559774
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -3,28
+Metoda Newtona: -1.5581577856545545
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -3,27
+Metoda Newtona: -1.5581577856533195
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -3,26
+Metoda Newtona: -1.5581577856522488
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -3,25
+Metoda Newtona: -1.558157785651322
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -3,24
+Metoda Newtona: -1.5581577856505209
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -3,23
+Metoda Newtona: -1.5581577856498297
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -3,22
+Metoda Newtona: -1.5581577856492341
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -3,21
+Metoda Newtona: -1.5581577856487219
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -3,20
+Metoda Newtona: -1.5581577856482816
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -3,19
+Metoda Newtona: -1.5581577856479043
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -3,18
+Metoda Newtona: -1.558157785647581
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -3,17
+Metoda Newtona: -1.558157785647305
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -3,16
+Metoda Newtona: -1.5581577856470694
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -3,15
+Metoda Newtona: -1.5581577856468687
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -3,14
+Metoda Newtona: -1.5581577856466982
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -3,13
+Metoda Newtona: -1.5581577856465534
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -3,12
+Metoda Newtona: -1.5581577856464306
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -3,11
+Metoda Newtona: -1.5581577856463267
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -3,10
+Metoda Newtona: -1.5581577856462392
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -3,09
+Metoda Newtona: -1.5581577856461655
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -3,08
+Metoda Newtona: -1.5581577856461033
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -3,07
+Metoda Newtona: -1.5581577856460511
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -3,06
+Metoda Newtona: -1.5581577856460076
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -3,05
+Metoda Newtona: -1.5581577856459712
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -3,04
+Metoda Newtona: -1.5581577856459408
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -3,03
+Metoda Newtona: -1.5581577856459154
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -3,02
+Metoda Newtona: -1.5581577856458944
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -3,01
+Metoda Newtona: -1.558157785645877
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -3,00
+Metoda Newtona: -1.5581577856458624
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -2,99
+Metoda Newtona: -1.5581577856458506
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -2,98
+Metoda Newtona: -1.5581577856458408
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -2,97
+Metoda Newtona: -1.5581577856458328
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -2,96
+Metoda Newtona: -1.5581577856458262
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -2,95
+Metoda Newtona: -1.5581577856458206
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -2,94
+Metoda Newtona: -1.5581577856458164
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -2,93
+Metoda Newtona: -1.5581577856458126
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -2,92
+Metoda Newtona: -1.5581577856458098
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -2,91
+Metoda Newtona: -1.5581577856458075
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -2,90
+Metoda Newtona: -1.5581577856458055
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -2,89
+Metoda Newtona: -1.5581577856458042
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -2,88
+Metoda Newtona: -1.5581577856458029
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -2,87
+Metoda Newtona: -1.5581577856458018
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -2,86
+Metoda Newtona: -1.558157785645801
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -2,85
+Metoda Newtona: -1.5581577856458004
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -2,84
+Metoda Newtona: -1.5581577856458
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -2,83
+Metoda Newtona: -1.5581577856457995
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -2,82
+Metoda Newtona: -1.5581577856457993
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -2,81
+Metoda Newtona: -1.558157785645799
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -2,80
+Metoda Newtona: -1.5581577856457987
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -2,79
+Metoda Newtona: -1.5581577856457987
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -2,78
+Metoda Newtona: -1.5581577856457984
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -2,77
+Metoda Newtona: -1.5581577856457984
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -2,76
+Metoda Newtona: -1.5581577856457984
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -2,75
+Metoda Newtona: -1.5581577856457984
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -2,74
+Metoda Newtona: -1.5581577856457982
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -2,73
+Metoda Newtona: -1.5581577856457982
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -2,72
+Metoda Newtona: -1.5581577856457982
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -2,71
+Metoda Newtona: -1.5581577935941757
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -2,70
+Metoda Newtona: -1.5581577925132941
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -2,69
+Metoda Newtona: -1.5581577915676328
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -2,68
+Metoda Newtona: -1.5581577907418578
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -2,67
+Metoda Newtona: -1.5581577900221775
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -2,66
+Metoda Newtona: -1.5581577893962106
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -2,65
+Metoda Newtona: -1.5581577888528622
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -2,64
+Metoda Newtona: -1.5581577883822073
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -2,63
+Metoda Newtona: -1.5581577879753854
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -2,62
+Metoda Newtona: -1.558157787624501
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -2,61
+Metoda Newtona: -1.5581577873225325
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -2,60
+Metoda Newtona: -1.558157787063249
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -2,59
+Metoda Newtona: -1.5581577868411316
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -2,58
+Metoda Newtona: -1.5581577866513023
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -2,57
+Metoda Newtona: -1.5581577864894596
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -2,56
+Metoda Newtona: -1.5581577863518183
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -2,55
+Metoda Newtona: -1.558157786235055
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -2,54
+Metoda Newtona: -1.5581577861362592
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -2,53
+Metoda Newtona: -1.5581577860528872
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -2,52
+Metoda Newtona: -1.5581577859827211
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -2,51
+Metoda Newtona: -1.5581577859238331
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -2,50
+Metoda Newtona: -1.5581577858745501
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -2,49
+Metoda Newtona: -1.5581577858334257
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -2,48
+Metoda Newtona: -1.558157785799211
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -2,47
+Metoda Newtona: -1.558157785770832
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -2,46
+Metoda Newtona: -1.5581577857473667
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -2,45
+Metoda Newtona: -1.5581577857280264
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -2,44
+Metoda Newtona: -1.5581577857121385
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -2,43
+Metoda Newtona: -1.5581577856991302
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -2,42
+Metoda Newtona: -1.5581577856885165
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -2,41
+Metoda Newtona: -1.5581577856798872
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -2,40
+Metoda Newtona: -1.5581577856728968
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -2,39
+Metoda Newtona: -1.5581577856672553
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -2,38
+Metoda Newtona: -1.5581577856627193
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -2,37
+Metoda Newtona: -1.5581577856590871
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -2,36
+Metoda Newtona: -1.5581577856561901
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -2,35
+Metoda Newtona: -1.558157785653889
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -2,34
+Metoda Newtona: -1.5581577856520692
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -2,33
+Metoda Newtona: -1.5581577856506361
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -2,32
+Metoda Newtona: -1.5581577856495128
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -2,31
+Metoda Newtona: -1.5581577856486364
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -2,30
+Metoda Newtona: -1.5581577856479558
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -2,29
+Metoda Newtona: -1.55815778564743
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -2,28
+Metoda Newtona: -1.5581577856470255
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -2,27
+Metoda Newtona: -1.5581577856467164
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -2,26
+Metoda Newtona: -1.5581577856464812
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -2,25
+Metoda Newtona: -1.5581577856463034
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -2,24
+Metoda Newtona: -1.5581577856461692
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -2,23
+Metoda Newtona: -1.5581577856460693
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -2,22
+Metoda Newtona: -1.558157785645995
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -2,21
+Metoda Newtona: -1.55815778564594
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -2,20
+Metoda Newtona: -1.5581577856458997
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -2,19
+Metoda Newtona: -1.5581577856458704
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -2,18
+Metoda Newtona: -1.558157785645849
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -2,17
+Metoda Newtona: -1.5581577856458337
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -2,16
+Metoda Newtona: -1.558157785645823
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -2,15
+Metoda Newtona: -1.5581577856458153
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -2,14
+Metoda Newtona: -1.5581577856458098
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -2,13
+Metoda Newtona: -1.558157785645806
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -2,12
+Metoda Newtona: -1.5581577856458035
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -2,11
+Metoda Newtona: -1.5581577856458018
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -2,10
+Metoda Newtona: -1.5581577856458004
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -2,09
+Metoda Newtona: -1.5581577856457998
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -2,08
+Metoda Newtona: -1.558157785645799
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -2,07
+Metoda Newtona: -1.5581577856457989
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -2,06
+Metoda Newtona: -1.5581577856457984
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -2,05
+Metoda Newtona: -1.5581577856457984
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -2,04
+Metoda Newtona: -1.5581577856457984
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -2,03
+Metoda Newtona: -1.5581577856457982
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -2,02
+Metoda Newtona: -1.558157793528123
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -2,01
+Metoda Newtona: -1.558157791704045
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -2,00
+Metoda Newtona: -1.5581577902674806
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -1,99
+Metoda Newtona: -1.5581577891441143
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -1,98
+Metoda Newtona: -1.5581577882721822
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -1,97
+Metoda Newtona: -1.5581577876006778
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -1,96
+Metoda Newtona: -1.5581577870877592
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -1,95
+Metoda Newtona: -1.5581577866993443
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -1,94
+Metoda Newtona: -1.558157786407875
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -1,93
+Metoda Newtona: -1.558157786191242
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -1,92
+Metoda Newtona: -1.5581577860318527
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -1,91
+Metoda Newtona: -1.5581577859158295
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -1,90
+Metoda Newtona: -1.5581577858323252
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -1,89
+Metoda Newtona: -1.5581577857729432
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -1,88
+Metoda Newtona: -1.5581577857312503
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -1,87
+Metoda Newtona: -1.558157785702372
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -1,86
+Metoda Newtona: -1.5581577856826572
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -1,85
+Metoda Newtona: -1.5581577856694044
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -1,84
+Metoda Newtona: -1.5581577856606412
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -1,83
+Metoda Newtona: -1.5581577856549491
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -1,82
+Metoda Newtona: -1.5581577856513211
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -1,81
+Metoda Newtona: -1.558157785649056
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -1,80
+Metoda Newtona: -1.5581577856476727
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -1,79
+Metoda Newtona: -1.5581577856468483
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -1,78
+Metoda Newtona: -1.5581577856463693
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -1,77
+Metoda Newtona: -1.558157785646099
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -1,76
+Metoda Newtona: -1.5581577856459512
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -1,75
+Metoda Newtona: -1.558157785645873
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -1,74
+Metoda Newtona: -1.5581577856458333
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -1,73
+Metoda Newtona: -1.5581577856458138
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -1,72
+Metoda Newtona: -1.5581577856458049
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -1,71
+Metoda Newtona: -1.5581577856458007
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -1,70
+Metoda Newtona: -1.558157785645799
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -1,69
+Metoda Newtona: -1.5581577856457987
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -1,68
+Metoda Newtona: -1.5581577856457982
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -1,67
+Metoda Newtona: -1.5581577914340459
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -1,66
+Metoda Newtona: -1.5581577885251106
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -1,65
+Metoda Newtona: -1.5581577869715875
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -1,64
+Metoda Newtona: -1.5581577862008447
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -1,63
+Metoda Newtona: -1.5581577858518747
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -1,62
+Metoda Newtona: -1.5581577857112403
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -1,61
+Metoda Newtona: -1.5581577856626148
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -1,60
+Metoda Newtona: -1.5581577856489897
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -1,59
+Metoda Newtona: -1.5581577856461766
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -1,58
+Metoda Newtona: -1.5581577856458178
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -1,57
+Metoda Newtona: -1.5581577856457982
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -1,56
+Metoda Newtona: -1.5581577856537348
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = -1,55
+Metoda Newtona: -1.558157788780742
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = -1,54
+Metoda Newtona: -1.5581577856458038
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = -1,53
+Metoda Newtona: -1.5581577856459934
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = -1,52
+Metoda Newtona: -1.5581577856481426
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = -1,51
+Metoda Newtona: -1.5581577856617375
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = -1,50
+Metoda Newtona: -1.5581577857219855
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = -1,49
+Metoda Newtona: -1.5581577859323064
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = -1,48
+Metoda Newtona: -1.558157786551308
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = -1,47
+Metoda Newtona: -1.5581577881542787
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = -1,46
+Metoda Newtona: -1.5581577919125322
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = -1,45
+Metoda Newtona: -1.5581577856457984
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = -1,44
+Metoda Newtona: -1.558157785645799
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = -1,43
+Metoda Newtona: -1.5581577856458018
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = -1,42
+Metoda Newtona: -1.558157785645811
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = -1,41
+Metoda Newtona: -1.5581577856458426
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = -1,40
+Metoda Newtona: -1.55815778564594
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = -1,39
+Metoda Newtona: -1.5581577856462228
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = -1,38
+Metoda Newtona: -1.5581577856469995
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = -1,37
+Metoda Newtona: -1.558157785649031
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = -1,36
+Metoda Newtona: -1.5581577856541178
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = -1,35
+Metoda Newtona: -1.558157785666361
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = -1,34
+Metoda Newtona: -1.558157785694797
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = -1,33
+Metoda Newtona: -1.5581577857587383
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = -1,32
+Metoda Newtona: -1.5581577858983304
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = -1,31
+Metoda Newtona: -1.5581577861949414
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = -1,30
+Metoda Newtona: -1.5581577868096983
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = -1,29
+Metoda Newtona: -1.5581577880549105
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = -1,28
+Metoda Newtona: -1.5581577905240505
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = -1,27
+Metoda Newtona: -1.5581577856457982
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = -1,26
+Metoda Newtona: -1.5581577856457984
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = -1,25
+Metoda Newtona: -1.5581577856457993
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = -1,24
+Metoda Newtona: -1.5581577856458022
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = -1,23
+Metoda Newtona: -1.558157785645812
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = -1,22
+Metoda Newtona: -1.5581577856458444
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = -1,21
+Metoda Newtona: -1.5581577856459483
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = -1,20
+Metoda Newtona: -1.5581577856462714
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = -1,19
+Metoda Newtona: -1.5581577856472535
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = -1,18
+Metoda Newtona: -1.5581577856501687
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = -1,17
+Metoda Newtona: -1.5581577856586302
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = -1,16
+Metoda Newtona: -1.5581577856826656
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = -1,15
+Metoda Newtona: -1.5581577857495479
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = -1,14
+Metoda Newtona: -1.558157785932005
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = -1,13
+Metoda Newtona: -1.5581577864203306
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = -1,12
+Metoda Newtona: -1.5581577877033372
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = -1,11
+Metoda Newtona: -1.5581577910143105
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = -1,10
+Metoda Newtona: -1.5581577856457982
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = -1,09
+Metoda Newtona: -1.5581577856457993
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = -1,08
+Metoda Newtona: -1.5581577856458046
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = -1,07
+Metoda Newtona: -1.558157785645837
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = -1,06
+Metoda Newtona: -1.5581577856460223
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = -1,05
+Metoda Newtona: -1.5581577856470479
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = -1,04
+Metoda Newtona: -1.5581577856525466
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = -1,03
+Metoda Newtona: -1.5581577856810962
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = -1,02
+Metoda Newtona: -1.558157785824581
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = -1,01
+Metoda Newtona: -1.558157786522354
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = -1,00
+Metoda Newtona: -1.5581577898036825
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = -0,99
+Metoda Newtona: -1.5581577856457984
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = -0,98
+Metoda Newtona: -1.5581577856458044
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = -0,97
+Metoda Newtona: -1.5581577856459132
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = -0,96
+Metoda Newtona: -1.558157785647747
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = -0,95
+Metoda Newtona: -1.5581577856762834
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = -0,94
+Metoda Newtona: -1.5581577860845097
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = -0,93
+Metoda Newtona: -1.5581577914226727
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = -0,92
+Metoda Newtona: -1.5581577856458024
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = -0,91
+Metoda Newtona: -1.5581577856462916
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = -0,90
+Metoda Newtona: -1.5581577856917659
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = -0,89
+Metoda Newtona: -1.5581577889907763
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = -0,88
+Metoda Newtona: -1.5581577856458284
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = -0,87
+Metoda Newtona: -1.5581577856958488
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = -0,86
+Metoda Newtona: -1.5581577856457995
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = -0,85
+Metoda Newtona: -1.5581577858453213
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = -0,84
+Metoda Newtona: -1.5581577856596334
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = -0,83
+Metoda Newtona: -1.5581577879675559
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = -0,82
+Metoda Newtona: -1.5581577856458049
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = -0,81
+Metoda Newtona: 1.2022907030571484
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = -0,80
+Metoda Newtona: 1.2022907030003045
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = -0,79
+Metoda Newtona: 1.2022907030001884
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = -0,78
+Metoda Newtona: 1.2022907030002277
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = -0,77
+Metoda Newtona: 1.2022907030295011
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = -0,76
+Metoda Newtona: 1.2022907030001881
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = -0,75
+Metoda Newtona: 1.202290703033846
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = -0,74
+Metoda Newtona: 1.202290703000203
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = -0,73
+Metoda Newtona: 1.2022907040794029
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = -0,72
+Metoda Newtona: 1.202290703005414
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = -0,71
+Metoda Newtona: 1.2022907030001975
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = -0,70
+Metoda Newtona: 1.2022907050404439
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = -0,69
+Metoda Newtona: 1.2022907030268444
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = -0,68
+Metoda Newtona: 1.2022907030003414
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = -0,67
+Metoda Newtona: 1.2022907172856592
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = -0,66
+Metoda Newtona: 1.2022907033273824
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = -0,65
+Metoda Newtona: 1.202290703003129
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = -0,64
+Metoda Newtona: 1.2022907030001941
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = -0,63
+Metoda Newtona: 1.2022907040586222
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = -0,62
+Metoda Newtona: 1.20229070300238
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = -0,61
+Metoda Newtona: 1.2022907068645408
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = -0,60
+Metoda Newtona: 1.202290703000188
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = -0,59
+Metoda Newtona: 1.2022907030001908
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = -0,58
+Metoda Newtona: 1.202290703170731
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = -0,57
+Metoda Newtona: 1.2022907030002246
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = -0,56
+Metoda Newtona: 1.2022907038909267
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = -0,55
+Metoda Newtona: 1.2022907030116434
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = -0,54
+Metoda Newtona: 1.2022907030410213
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = -0,53
+Metoda Newtona: 1.2022907030001895
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = -0,52
+Metoda Newtona: -1.5581577882650608
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = -0,51
+Metoda Newtona: -1.5581577856471653
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = -0,50
+Metoda Newtona: 0.35586708253415994
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = -0,49
+Metoda Newtona: 0.3558670826456096
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = -0,48
+Metoda Newtona: 0.3558670826456094
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = -0,47
+Metoda Newtona: 0.3558670826456106
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = -0,46
+Metoda Newtona: 0.35586708054399663
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = -0,45
+Metoda Newtona: 0.35586708228079206
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = -0,44
+Metoda Newtona: 0.35586708258380123
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = -0,43
+Metoda Newtona: 0.35586708263517836
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = -0,42
+Metoda Newtona: 0.3558670826438452
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = -0,41
+Metoda Newtona: 0.35586708264531103
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = -0,40
+Metoda Newtona: 0.3558670826455598
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = -0,39
+Metoda Newtona: 0.3558670826456021
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = -0,38
+Metoda Newtona: 0.35586708264560923
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = -0,37
+Metoda Newtona: 0.35586708264561046
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = -0,36
+Metoda Newtona: 0.3558670826456107
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = -0,35
+Metoda Newtona: 0.3558670795798765
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = -0,34
+Metoda Newtona: 0.35586708144564316
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = -0,33
+Metoda Newtona: 0.3558670821857467
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = -0,32
+Metoda Newtona: 0.3558670824739117
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = -0,31
+Metoda Newtona: 0.3558670825835147
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = -0,30
+Metoda Newtona: 0.35586708262400873
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = -0,29
+Metoda Newtona: 0.3558670826384434
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = -0,28
+Metoda Newtona: 0.3558670826433668
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = -0,27
+Metoda Newtona: 0.35586708264495687
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = -0,26
+Metoda Newtona: 0.35586708264543665
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = -0,25
+Metoda Newtona: 0.35586708264556943
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = -0,24
+Metoda Newtona: 0.3558670826456023
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = -0,23
+Metoda Newtona: 0.3558670826456093
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = -0,22
+Metoda Newtona: 0.3558670826456105
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = -0,21
+Metoda Newtona: 0.35586707815915375
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = -0,20
+Metoda Newtona: 0.35586708181592996
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = -0,19
+Metoda Newtona: 0.35586708258439226
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = -0,18
+Metoda Newtona: 0.35586708264556727
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = -0,17
+Metoda Newtona: 0.3558670826378101
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = -0,16
+Metoda Newtona: 0.3558670824774011
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = -0,15
+Metoda Newtona: 0.35586708182799914
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = -0,14
+Metoda Newtona: 0.35586708035036335
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = -0,13
+Metoda Newtona: 0.3558670778180298
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = -0,12
+Metoda Newtona: 0.3558670826456106
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = -0,11
+Metoda Newtona: 0.35586708264561057
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = -0,10
+Metoda Newtona: 0.35586708264561046
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = -0,09
+Metoda Newtona: 0.3558670826456103
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = -0,08
+Metoda Newtona: 0.35586708264561007
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = -0,07
+Metoda Newtona: 0.35586708264560973
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = -0,06
+Metoda Newtona: 0.3558670826456094
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = -0,05
+Metoda Newtona: 0.35586708264560907
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = -0,04
+Metoda Newtona: 0.3558670826456087
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = -0,03
+Metoda Newtona: 0.3558670826456084
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = -0,02
+Metoda Newtona: 0.3558670826456082
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = -0,01
+Metoda Newtona: 0.355867082645608
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = -0,00
+Metoda Newtona: 0.355867082645608
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = 0,01
+Metoda Newtona: 0.35586708264560807
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = 0,02
+Metoda Newtona: 0.3558670826456081
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = 0,03
+Metoda Newtona: 0.35586708264560835
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = 0,04
+Metoda Newtona: 0.3558670826456086
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = 0,05
+Metoda Newtona: 0.35586708264560885
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = 0,06
+Metoda Newtona: 0.35586708264560923
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = 0,07
+Metoda Newtona: 0.35586708264560946
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = 0,08
+Metoda Newtona: 0.3558670826456097
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = 0,09
+Metoda Newtona: 0.35586708264560996
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = 0,10
+Metoda Newtona: 0.3558670826456101
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = 0,11
+Metoda Newtona: 0.3558670826456103
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = 0,12
+Metoda Newtona: 0.35586708264561034
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = 0,13
+Metoda Newtona: 0.3558670826456105
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = 0,14
+Metoda Newtona: 0.3558670826456105
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = 0,15
+Metoda Newtona: 0.3558670826456106
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = 0,16
+Metoda Newtona: 0.3558670826456107
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = 0,17
+Metoda Newtona: 0.35586707606342466
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = 0,18
+Metoda Newtona: 0.3558670777749604
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = 0,19
+Metoda Newtona: 0.3558670791395863
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = 0,20
+Metoda Newtona: 0.35586708019811386
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = 0,21
+Metoda Newtona: 0.35586708099481806
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = 0,22
+Metoda Newtona: 0.35586708157471486
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = 0,23
+Metoda Newtona: 0.3558670819812019
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = 0,24
+Metoda Newtona: 0.35586708225415803
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = 0,25
+Metoda Newtona: 0.3558670824285659
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = 0,26
+Metoda Newtona: 0.35586708253368565
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = 0,27
+Metoda Newtona: 0.35586708259276845
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = 0,28
+Metoda Newtona: 0.3558670826232587
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = 0,29
+Metoda Newtona: 0.3558670826373974
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = 0,30
+Metoda Newtona: 0.3558670826431075
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = 0,31
+Metoda Newtona: 0.355867082645023
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = 0,32
+Metoda Newtona: 0.35586708264551725
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = 0,33
+Metoda Newtona: 0.35586708264560296
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = 0,34
+Metoda Newtona: 0.35586708264561057
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = 0,35
+Metoda Newtona: 0.3558670823189899
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = 0,36
+Metoda Newtona: 0.3558670825598865
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = 0,37
+Metoda Newtona: 0.35586708264561057
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = 0,38
+Metoda Newtona: 0.35586708264560224
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = 0,39
+Metoda Newtona: 0.35586708264545697
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = 0,40
+Metoda Newtona: 0.3558670826442465
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = 0,41
+Metoda Newtona: 0.35586708263766775
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = 0,42
+Metoda Newtona: 0.3558670826105746
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = 0,43
+Metoda Newtona: 0.3558670825186688
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = 0,44
+Metoda Newtona: 0.3558670822484448
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = 0,45
+Metoda Newtona: 0.3558670815364631
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = 0,46
+Metoda Newtona: 0.35586707981642585
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = 0,47
+Metoda Newtona: 0.3558670826456107
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = 0,48
+Metoda Newtona: 0.3558670826456105
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = 0,49
+Metoda Newtona: 0.35586708264561007
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = 0,50
+Metoda Newtona: 0.355867082645608
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = 0,51
+Metoda Newtona: 0.3558670826456005
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = 0,52
+Metoda Newtona: 0.3558670826455746
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = 0,53
+Metoda Newtona: 0.3558670826454903
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = 0,54
+Metoda Newtona: 0.35586708264522976
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = 0,55
+Metoda Newtona: 0.35586708264446254
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = 0,56
+Metoda Newtona: 0.35586708264229855
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = 0,57
+Metoda Newtona: 0.35586708263643474
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = 0,58
+Metoda Newtona: 0.35586708262113176
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = 0,59
+Metoda Newtona: 0.35586708258260386
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = 0,60
+Metoda Newtona: 0.35586708248894616
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = 0,61
+Metoda Newtona: 0.35586708226915525
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = 0,62
+Metoda Newtona: 0.35586708177192533
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = 0,63
+Metoda Newtona: 0.3558670806909865
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = 0,64
+Metoda Newtona: 0.3558670784461244
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = 0,65
+Metoda Newtona: 0.3558670826456107
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = 0,66
+Metoda Newtona: 0.3558670826456105
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = 0,67
+Metoda Newtona: 0.3558670826456101
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = 0,68
+Metoda Newtona: 0.35586708264560923
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = 0,69
+Metoda Newtona: 0.3558670826456082
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = 0,70
+Metoda Newtona: 0.35586708264560857
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = 0,71
+Metoda Newtona: 0.35586708264561046
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = 0,72
+Metoda Newtona: 0.35586708264559747
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = 0,73
+Metoda Newtona: 0.3558670826439467
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = 0,74
+Metoda Newtona: 0.3558670826455311
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = 0,75
+Metoda Newtona: 1.2022907030016177
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = 0,76
+Metoda Newtona: 1.202290703000193
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = 0,77
+Metoda Newtona: -1.558157789521666
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = 0,78
+Metoda Newtona: -1.5581577856837754
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = 0,79
+Metoda Newtona: -1.5581577858802982
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = 0,80
+Metoda Newtona: -1.5581577856461808
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = 0,81
+Metoda Newtona: -1.558157792553937
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = 0,82
+Metoda Newtona: 1.2022907033037786
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = 0,83
+Metoda Newtona: 1.2022907030315466
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = 0,84
+Metoda Newtona: 1.2022907030008827
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = 0,85
+Metoda Newtona: 1.2022907030616272
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = 0,86
+Metoda Newtona: 1.2022907030001897
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = 0,87
+Metoda Newtona: 1.2022907031564367
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = 0,88
+Metoda Newtona: 1.2022907030006853
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = 0,89
+Metoda Newtona: 1.2022907030001888
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = 0,90
+Metoda Newtona: 1.202290704306203
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = 0,91
+Metoda Newtona: 1.2022907030545338
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = 0,92
+Metoda Newtona: 1.2022907030022578
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = 0,93
+Metoda Newtona: 1.2022907030002599
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = 0,94
+Metoda Newtona: 1.20229070300019
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = 0,95
+Metoda Newtona: 1.2022907095984927
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = 0,96
+Metoda Newtona: 1.2022907040727668
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = 0,97
+Metoda Newtona: 1.202290703165723
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = 0,98
+Metoda Newtona: 1.2022907030243448
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = 0,99
+Metoda Newtona: 1.2022907030035046
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = 1,00
+Metoda Newtona: 1.2022907030006136
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = 1,01
+Metoda Newtona: 1.2022907030002383
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = 1,02
+Metoda Newtona: 1.202290703000193
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = 1,03
+Metoda Newtona: 1.202290703000188
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = 1,04
+Metoda Newtona: 1.2022907087374801
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = 1,05
+Metoda Newtona: 1.2022907046289686
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = 1,06
+Metoda Newtona: 1.2022907034328376
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = 1,07
+Metoda Newtona: 1.202290703106639
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = 1,08
+Metoda Newtona: 1.2022907030241479
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = 1,09
+Metoda Newtona: 1.2022907030050443
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = 1,10
+Metoda Newtona: 1.2022907030010566
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = 1,11
+Metoda Newtona: 1.2022907030003211
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = 1,12
+Metoda Newtona: 1.2022907030002046
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = 1,13
+Metoda Newtona: 1.2022907030001893
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = 1,14
+Metoda Newtona: 1.2022907120998172
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = 1,15
+Metoda Newtona: 1.202290705014633
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = 1,16
+Metoda Newtona: 1.2022907033315957
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = 1,17
+Metoda Newtona: 1.202290703034637
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = 1,18
+Metoda Newtona: 1.2022907030017878
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = 1,19
+Metoda Newtona: 1.2022907030001997
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = 1,20
+Metoda Newtona: 1.2022907031026608
+Iteracje proste: 0.3558670826456107
+-----------------------------------------------------------------------------------------
+x₀ = 1,21
+Metoda Newtona: 1.2022907154987126
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 1,22
+Metoda Newtona: 1.2022907030003567
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 1,23
+Metoda Newtona: 1.2022907030056933
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 1,24
+Metoda Newtona: 1.2022907030589258
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 1,25
+Metoda Newtona: 1.2022907033502255
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 1,26
+Metoda Newtona: 1.2022907044578333
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 1,27
+Metoda Newtona: 1.2022907077611535
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 1,28
+Metoda Newtona: 1.202290716047945
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 1,29
+Metoda Newtona: 1.202290703000189
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 1,30
+Metoda Newtona: 1.2022907030001946
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 1,31
+Metoda Newtona: 1.2022907030002155
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 1,32
+Metoda Newtona: 1.2022907030002845
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 1,33
+Metoda Newtona: 1.2022907030004868
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 1,34
+Metoda Newtona: 1.2022907030010253
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 1,35
+Metoda Newtona: 1.2022907030023466
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 1,36
+Metoda Newtona: 1.2022907030053653
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 1,37
+Metoda Newtona: 1.2022907030118481
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 1,38
+Metoda Newtona: 1.2022907030250338
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 1,39
+Metoda Newtona: 1.2022907030505896
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 1,40
+Metoda Newtona: 1.2022907030980372
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 1,41
+Metoda Newtona: 1.202290703182801
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 1,42
+Metoda Newtona: 1.202290703329064
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 1,43
+Metoda Newtona: 1.202290703573638
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 1,44
+Metoda Newtona: 1.2022907039710868
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 1,45
+Metoda Newtona: 1.2022907046003428
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 1,46
+Metoda Newtona: 1.2022907055730938
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 1,47
+Metoda Newtona: 1.2022907070442008
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 1,48
+Metoda Newtona: 1.2022907092244253
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 1,49
+Metoda Newtona: 1.2022907123957256
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 1,50
+Metoda Newtona: 1.202290716929373
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 1,51
+Metoda Newtona: 1.202290703000188
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 1,52
+Metoda Newtona: 1.2022907030001888
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 1,53
+Metoda Newtona: 1.2022907030001901
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 1,54
+Metoda Newtona: 1.2022907030001926
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 1,55
+Metoda Newtona: 1.2022907030001972
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 1,56
+Metoda Newtona: 1.2022907030002055
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 1,57
+Metoda Newtona: 1.20229070300022
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 1,58
+Metoda Newtona: 1.2022907030002452
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 1,59
+Metoda Newtona: 1.2022907030002874
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 1,60
+Metoda Newtona: 1.202290703000358
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 1,61
+Metoda Newtona: 1.2022907030004726
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 1,62
+Metoda Newtona: 1.2022907030006569
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 1,63
+Metoda Newtona: 1.202290703000947
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 1,64
+Metoda Newtona: 1.2022907030013985
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 1,65
+Metoda Newtona: 1.2022907030020897
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 1,66
+Metoda Newtona: 1.2022907030031347
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 1,67
+Metoda Newtona: 1.202290703004693
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 1,68
+Metoda Newtona: 1.2022907030069887
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 1,69
+Metoda Newtona: 1.202290703010331
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 1,70
+Metoda Newtona: 1.2022907030151424
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 1,71
+Metoda Newtona: 1.202290703021994
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 1,72
+Metoda Newtona: 1.2022907030316516
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 1,73
+Metoda Newtona: 1.20229070304513
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 1,74
+Metoda Newtona: 1.202290703063764
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 1,75
+Metoda Newtona: 1.2022907030892938
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 1,76
+Metoda Newtona: 1.202290703123969
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 1,77
+Metoda Newtona: 1.2022907031706747
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 1,78
+Metoda Newtona: 1.2022907032330838
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 1,79
+Metoda Newtona: 1.2022907033158385
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 1,80
+Metoda Newtona: 1.2022907034247636
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 1,81
+Metoda Newtona: 1.2022907035671204
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 1,82
+Metoda Newtona: 1.2022907037519022
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 1,83
+Metoda Newtona: 1.2022907039901787
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 1,84
+Metoda Newtona: 1.2022907042954945
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 1,85
+Metoda Newtona: 1.2022907046843263
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 1,86
+Metoda Newtona: 1.202290705176609
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 1,87
+Metoda Newtona: 1.2022907057963308
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 1,88
+Metoda Newtona: 1.2022907065722104
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 1,89
+Metoda Newtona: 1.20229070753846
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 1,90
+Metoda Newtona: 1.2022907087356394
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 1,91
+Metoda Newtona: 1.202290710211614
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 1,92
+Metoda Newtona: 1.2022907120226174
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 1,93
+Metoda Newtona: 1.2022907142344295
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 1,94
+Metoda Newtona: 1.2022907169236765
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 1,95
+Metoda Newtona: 1.202290703000188
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 1,96
+Metoda Newtona: 1.2022907030001881
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 1,97
+Metoda Newtona: 1.2022907030001886
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 1,98
+Metoda Newtona: 1.202290703000189
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 1,99
+Metoda Newtona: 1.2022907030001897
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 2,00
+Metoda Newtona: 1.2022907030001908
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 2,01
+Metoda Newtona: 1.2022907030001921
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 2,02
+Metoda Newtona: 1.2022907030001944
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 2,03
+Metoda Newtona: 1.2022907030001972
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 2,04
+Metoda Newtona: 1.2022907030002015
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 2,05
+Metoda Newtona: 1.202290703000207
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 2,06
+Metoda Newtona: 1.202290703000215
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 2,07
+Metoda Newtona: 1.2022907030002257
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 2,08
+Metoda Newtona: 1.2022907030002405
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 2,09
+Metoda Newtona: 1.2022907030002603
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 2,10
+Metoda Newtona: 1.2022907030002874
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 2,11
+Metoda Newtona: 1.2022907030003231
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 2,12
+Metoda Newtona: 1.2022907030003713
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 2,13
+Metoda Newtona: 1.2022907030004346
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 2,14
+Metoda Newtona: 1.2022907030005183
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 2,15
+Metoda Newtona: 1.202290703000628
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 2,16
+Metoda Newtona: 1.2022907030007715
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 2,17
+Metoda Newtona: 1.2022907030009575
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 2,18
+Metoda Newtona: 1.202290703001198
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 2,19
+Metoda Newtona: 1.202290703001508
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 2,20
+Metoda Newtona: 1.202290703001905
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 2,21
+Metoda Newtona: 1.2022907030024121
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 2,22
+Metoda Newtona: 1.202290703003056
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 2,23
+Metoda Newtona: 1.2022907030038714
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 2,24
+Metoda Newtona: 1.2022907030048993
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 2,25
+Metoda Newtona: 1.2022907030061902
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 2,26
+Metoda Newtona: 1.202290703007805
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 2,27
+Metoda Newtona: 1.2022907030098178
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 2,28
+Metoda Newtona: 1.2022907030123176
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 2,29
+Metoda Newtona: 1.2022907030154113
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 2,30
+Metoda Newtona: 1.2022907030192265
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 2,31
+Metoda Newtona: 1.2022907030239158
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 2,32
+Metoda Newtona: 1.2022907030296608
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 2,33
+Metoda Newtona: 1.2022907030366758
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 2,34
+Metoda Newtona: 1.202290703045215
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 2,35
+Metoda Newtona: 1.2022907030555776
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 2,36
+Metoda Newtona: 1.2022907030681154
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 2,37
+Metoda Newtona: 1.2022907030832393
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 2,38
+Metoda Newtona: 1.2022907031014307
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 2,39
+Metoda Newtona: 1.2022907031232504
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 2,40
+Metoda Newtona: 1.2022907031493488
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 2,41
+Metoda Newtona: 1.2022907031804817
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 2,42
+Metoda Newtona: 1.2022907032175212
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 2,43
+Metoda Newtona: 1.202290703261474
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 2,44
+Metoda Newtona: 1.2022907033134982
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 2,45
+Metoda Newtona: 1.2022907033749228
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 2,46
+Metoda Newtona: 1.20229070344727
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 2,47
+Metoda Newtona: 1.2022907035322787
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 2,48
+Metoda Newtona: 1.2022907036319315
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 2,49
+Metoda Newtona: 1.2022907037484833
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 2,50
+Metoda Newtona: 1.2022907038844943
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 2,51
+Metoda Newtona: 1.202290704042864
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 2,52
+Metoda Newtona: 1.2022907042268705
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 2,53
+Metoda Newtona: 1.2022907044402114
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 2,54
+Metoda Newtona: 1.2022907046870508
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 2,55
+Metoda Newtona: 1.2022907049720675
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 2,56
+Metoda Newtona: 1.2022907053005103
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 2,57
+Metoda Newtona: 1.2022907056782552
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 2,58
+Metoda Newtona: 1.2022907061118695
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 2,59
+Metoda Newtona: 1.2022907066086792
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 2,60
+Metoda Newtona: 1.2022907071768425
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 2,61
+Metoda Newtona: 1.20229070782543
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 2,62
+Metoda Newtona: 1.2022907085645078
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 2,63
+Metoda Newtona: 1.2022907094052304
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 2,64
+Metoda Newtona: 1.2022907103599374
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 2,65
+Metoda Newtona: 1.2022907114422572
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 2,66
+Metoda Newtona: 1.20229071266722
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 2,67
+Metoda Newtona: 1.2022907140513743
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 2,68
+Metoda Newtona: 1.2022907156129152
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 2,69
+Metoda Newtona: 1.2022907173718178
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 2,70
+Metoda Newtona: 1.202290703000188
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 2,71
+Metoda Newtona: 1.202290703000188
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 2,72
+Metoda Newtona: 1.2022907030001881
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 2,73
+Metoda Newtona: 1.2022907030001884
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 2,74
+Metoda Newtona: 1.2022907030001886
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 2,75
+Metoda Newtona: 1.2022907030001888
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 2,76
+Metoda Newtona: 1.2022907030001893
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 2,77
+Metoda Newtona: 1.2022907030001897
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 2,78
+Metoda Newtona: 1.2022907030001904
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 2,79
+Metoda Newtona: 1.2022907030001913
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 2,80
+Metoda Newtona: 1.2022907030001921
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 2,81
+Metoda Newtona: 1.2022907030001933
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 2,82
+Metoda Newtona: 1.2022907030001946
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 2,83
+Metoda Newtona: 1.2022907030001966
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 2,84
+Metoda Newtona: 1.2022907030001988
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 2,85
+Metoda Newtona: 1.2022907030002015
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 2,86
+Metoda Newtona: 1.2022907030002048
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 2,87
+Metoda Newtona: 1.2022907030002088
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 2,88
+Metoda Newtona: 1.202290703000214
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 2,89
+Metoda Newtona: 1.20229070300022
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 2,90
+Metoda Newtona: 1.2022907030002272
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 2,91
+Metoda Newtona: 1.202290703000236
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 2,92
+Metoda Newtona: 1.202290703000247
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 2,93
+Metoda Newtona: 1.2022907030002599
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 2,94
+Metoda Newtona: 1.2022907030002754
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 2,95
+Metoda Newtona: 1.2022907030002943
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 2,96
+Metoda Newtona: 1.2022907030003167
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 2,97
+Metoda Newtona: 1.2022907030003438
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 2,98
+Metoda Newtona: 1.202290703000376
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 2,99
+Metoda Newtona: 1.2022907030004144
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 3,00
+Metoda Newtona: 1.20229070300046
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 3,01
+Metoda Newtona: 1.2022907030005143
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 3,02
+Metoda Newtona: 1.2022907030005785
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 3,03
+Metoda Newtona: 1.2022907030006547
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 3,04
+Metoda Newtona: 1.2022907030007444
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 3,05
+Metoda Newtona: 1.2022907030008503
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 3,06
+Metoda Newtona: 1.202290703000975
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 3,07
+Metoda Newtona: 1.2022907030011214
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 3,08
+Metoda Newtona: 1.2022907030012933
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 3,09
+Metoda Newtona: 1.2022907030014942
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 3,10
+Metoda Newtona: 1.2022907030017294
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 3,11
+Metoda Newtona: 1.2022907030020038
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 3,12
+Metoda Newtona: 1.2022907030023233
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 3,13
+Metoda Newtona: 1.202290703002695
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 3,14
+Metoda Newtona: 1.202290703003127
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 3,15
+Metoda Newtona: 1.2022907030036276
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 3,16
+Metoda Newtona: 1.2022907030042074
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 3,17
+Metoda Newtona: 1.202290703004878
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 3,18
+Metoda Newtona: 1.2022907030056518
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 3,19
+Metoda Newtona: 1.202290703006544
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 3,20
+Metoda Newtona: 1.202290703007571
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 3,21
+Metoda Newtona: 1.2022907030087517
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 3,22
+Metoda Newtona: 1.2022907030101067
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 3,23
+Metoda Newtona: 1.2022907030116603
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 3,24
+Metoda Newtona: 1.2022907030134384
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 3,25
+Metoda Newtona: 1.2022907030154717
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 3,26
+Metoda Newtona: 1.2022907030177927
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 3,27
+Metoda Newtona: 1.2022907030204393
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 3,28
+Metoda Newtona: 1.202290703023453
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 3,29
+Metoda Newtona: 1.2022907030268808
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 3,30
+Metoda Newtona: 1.2022907030307741
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 3,31
+Metoda Newtona: 1.2022907030351913
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 3,32
+Metoda Newtona: 1.2022907030401961
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 3,33
+Metoda Newtona: 1.2022907030458605
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 3,34
+Metoda Newtona: 1.2022907030522632
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 3,35
+Metoda Newtona: 1.2022907030594925
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 3,36
+Metoda Newtona: 1.2022907030676453
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 3,37
+Metoda Newtona: 1.2022907030768293
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 3,38
+Metoda Newtona: 1.2022907030871628
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 3,39
+Metoda Newtona: 1.2022907030987775
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 3,40
+Metoda Newtona: 1.2022907031118175
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 3,41
+Metoda Newtona: 1.2022907031264416
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 3,42
+Metoda Newtona: 1.2022907031428252
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 3,43
+Metoda Newtona: 1.20229070316116
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 3,44
+Metoda Newtona: 1.2022907031816574
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 3,45
+Metoda Newtona: 1.2022907032045487
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 3,46
+Metoda Newtona: 1.2022907032300874
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 3,47
+Metoda Newtona: 1.202290703258551
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 3,48
+Metoda Newtona: 1.2022907032902437
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 3,49
+Metoda Newtona: 1.2022907033254961
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 3,50
+Metoda Newtona: 1.2022907033646708
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 3,51
+Metoda Newtona: 1.2022907034081622
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 3,52
+Metoda Newtona: 1.2022907034564005
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 3,53
+Metoda Newtona: 1.2022907035098542
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 3,54
+Metoda Newtona: 1.2022907035690322
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 3,55
+Metoda Newtona: 1.2022907036344879
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 3,56
+Metoda Newtona: 1.202290703706822
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 3,57
+Metoda Newtona: 1.2022907037866866
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 3,58
+Metoda Newtona: 1.202290703874788
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 3,59
+Metoda Newtona: 1.2022907039718915
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 3,60
+Metoda Newtona: 1.2022907040788253
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 3,61
+Metoda Newtona: 1.2022907041964843
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 3,62
+Metoda Newtona: 1.2022907043258366
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 3,63
+Metoda Newtona: 1.202290704467926
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 3,64
+Metoda Newtona: 1.2022907046238798
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 3,65
+Metoda Newtona: 1.2022907047949118
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 3,66
+Metoda Newtona: 1.2022907049823304
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 3,67
+Metoda Newtona: 1.2022907051875438
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 3,68
+Metoda Newtona: 1.202290705412066
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 3,69
+Metoda Newtona: 1.2022907056575243
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 3,70
+Metoda Newtona: 1.2022907059256667
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 3,71
+Metoda Newtona: 1.2022907062183688
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 3,72
+Metoda Newtona: 1.202290706537642
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 3,73
+Metoda Newtona: 1.202290706885642
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 3,74
+Metoda Newtona: 1.2022907072646778
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 3,75
+Metoda Newtona: 1.2022907076772198
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 3,76
+Metoda Newtona: 1.2022907081259104
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 3,77
+Metoda Newtona: 1.2022907086135743
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 3,78
+Metoda Newtona: 1.2022907091432276
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 3,79
+Metoda Newtona: 1.20229070971809
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 3,80
+Metoda Newtona: 1.2022907103415965
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 3,81
+Metoda Newtona: 1.202290711017408
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 3,82
+Metoda Newtona: 1.2022907117494253
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 3,83
+Metoda Newtona: 1.2022907125418014
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 3,84
+Metoda Newtona: 1.202290713398955
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 3,85
+Metoda Newtona: 1.2022907143255859
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 3,86
+Metoda Newtona: 1.2022907153266873
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 3,87
+Metoda Newtona: 1.202290716407564
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 3,88
+Metoda Newtona: 1.2022907175738466
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 3,89
+Metoda Newtona: 1.202290703000188
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 3,90
+Metoda Newtona: 1.202290703000188
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 3,91
+Metoda Newtona: 1.2022907030001881
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 3,92
+Metoda Newtona: 1.2022907030001881
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 3,93
+Metoda Newtona: 1.2022907030001881
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 3,94
+Metoda Newtona: 1.2022907030001884
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 3,95
+Metoda Newtona: 1.2022907030001886
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 3,96
+Metoda Newtona: 1.2022907030001886
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 3,97
+Metoda Newtona: 1.2022907030001888
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 3,98
+Metoda Newtona: 1.2022907030001893
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 3,99
+Metoda Newtona: 1.2022907030001895
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 4,00
+Metoda Newtona: 1.2022907030001897
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 4,01
+Metoda Newtona: 1.20229070300019
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 4,02
+Metoda Newtona: 1.2022907030001906
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 4,03
+Metoda Newtona: 1.202290703000191
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 4,04
+Metoda Newtona: 1.2022907030001915
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 4,05
+Metoda Newtona: 1.2022907030001921
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 4,06
+Metoda Newtona: 1.2022907030001928
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 4,07
+Metoda Newtona: 1.2022907030001937
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 4,08
+Metoda Newtona: 1.2022907030001946
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 4,09
+Metoda Newtona: 1.2022907030001957
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 4,10
+Metoda Newtona: 1.202290703000197
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 4,11
+Metoda Newtona: 1.2022907030001984
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 4,12
+Metoda Newtona: 1.2022907030002001
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 4,13
+Metoda Newtona: 1.202290703000202
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 4,14
+Metoda Newtona: 1.2022907030002041
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 4,15
+Metoda Newtona: 1.2022907030002066
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 4,16
+Metoda Newtona: 1.2022907030002095
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 4,17
+Metoda Newtona: 1.2022907030002123
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 4,18
+Metoda Newtona: 1.2022907030002161
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 4,19
+Metoda Newtona: 1.2022907030002201
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 4,20
+Metoda Newtona: 1.2022907030002248
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 4,21
+Metoda Newtona: 1.2022907030002299
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 4,22
+Metoda Newtona: 1.2022907030002359
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 4,23
+Metoda Newtona: 1.2022907030002425
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 4,24
+Metoda Newtona: 1.20229070300025
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 4,25
+Metoda Newtona: 1.2022907030002585
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 4,26
+Metoda Newtona: 1.202290703000268
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 4,27
+Metoda Newtona: 1.202290703000279
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 4,28
+Metoda Newtona: 1.2022907030002912
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 4,29
+Metoda Newtona: 1.202290703000305
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 4,30
+Metoda Newtona: 1.2022907030003203
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 4,31
+Metoda Newtona: 1.2022907030003376
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 4,32
+Metoda Newtona: 1.2022907030003571
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 4,33
+Metoda Newtona: 1.2022907030003789
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 4,34
+Metoda Newtona: 1.202290703000403
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 4,35
+Metoda Newtona: 1.2022907030004304
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 4,36
+Metoda Newtona: 1.202290703000461
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 4,37
+Metoda Newtona: 1.202290703000495
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 4,38
+Metoda Newtona: 1.2022907030005332
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 4,39
+Metoda Newtona: 1.2022907030005758
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 4,40
+Metoda Newtona: 1.2022907030006231
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 4,41
+Metoda Newtona: 1.202290703000676
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 4,42
+Metoda Newtona: 1.2022907030007346
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 4,43
+Metoda Newtona: 1.2022907030008003
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 4,44
+Metoda Newtona: 1.202290703000873
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 4,45
+Metoda Newtona: 1.2022907030009538
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 4,46
+Metoda Newtona: 1.2022907030010437
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 4,47
+Metoda Newtona: 1.2022907030011432
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 4,48
+Metoda Newtona: 1.2022907030012535
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 4,49
+Metoda Newtona: 1.2022907030013759
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 4,50
+Metoda Newtona: 1.2022907030015113
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 4,51
+Metoda Newtona: 1.2022907030016612
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 4,52
+Metoda Newtona: 1.2022907030018268
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 4,53
+Metoda Newtona: 1.20229070300201
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 4,54
+Metoda Newtona: 1.202290703002212
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 4,55
+Metoda Newtona: 1.2022907030024352
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 4,56
+Metoda Newtona: 1.2022907030026813
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 4,57
+Metoda Newtona: 1.2022907030029524
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 4,58
+Metoda Newtona: 1.202290703003251
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 4,59
+Metoda Newtona: 1.2022907030035797
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 4,60
+Metoda Newtona: 1.2022907030039411
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 4,61
+Metoda Newtona: 1.2022907030043384
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 4,62
+Metoda Newtona: 1.202290703004775
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 4,63
+Metoda Newtona: 1.202290703005254
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 4,64
+Metoda Newtona: 1.2022907030057801
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 4,65
+Metoda Newtona: 1.2022907030063568
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 4,66
+Metoda Newtona: 1.202290703006989
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 4,67
+Metoda Newtona: 1.2022907030076813
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 4,68
+Metoda Newtona: 1.2022907030084389
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 4,69
+Metoda Newtona: 1.2022907030092682
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 4,70
+Metoda Newtona: 1.2022907030101744
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 4,71
+Metoda Newtona: 1.2022907030111651
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 4,72
+Metoda Newtona: 1.2022907030122472
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 4,73
+Metoda Newtona: 1.202290703013428
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 4,74
+Metoda Newtona: 1.2022907030147163
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 4,75
+Metoda Newtona: 1.202290703016121
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 4,76
+Metoda Newtona: 1.202290703017652
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 4,77
+Metoda Newtona: 1.202290703019319
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 4,78
+Metoda Newtona: 1.202290703021134
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 4,79
+Metoda Newtona: 1.202290703023109
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 4,80
+Metoda Newtona: 1.202290703025256
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 4,81
+Metoda Newtona: 1.2022907030275898
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 4,82
+Metoda Newtona: 1.202290703030125
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 4,83
+Metoda Newtona: 1.2022907030328776
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 4,84
+Metoda Newtona: 1.2022907030358645
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 4,85
+Metoda Newtona: 1.2022907030391041
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 4,86
+Metoda Newtona: 1.2022907030426162
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 4,87
+Metoda Newtona: 1.2022907030464216
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 4,88
+Metoda Newtona: 1.202290703050543
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 4,89
+Metoda Newtona: 1.2022907030550043
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 4,90
+Metoda Newtona: 1.2022907030598313
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 4,91
+Metoda Newtona: 1.2022907030650511
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 4,92
+Metoda Newtona: 1.2022907030706935
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 4,93
+Metoda Newtona: 1.2022907030767895
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 4,94
+Metoda Newtona: 1.2022907030833725
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 4,95
+Metoda Newtona: 1.2022907030904781
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 4,96
+Metoda Newtona: 1.2022907030981442
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 4,97
+Metoda Newtona: 1.2022907031064116
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 4,98
+Metoda Newtona: 1.202290703115323
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 4,99
+Metoda Newtona: 1.2022907031249244
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+x₀ = 5,00
+Metoda Newtona: 1.2022907031352643
+Funckja w podanym punkcie jest rozbieżna dla Iteracji Prostych
+-----------------------------------------------------------------------------------------
+
+Process finished with exit code 0
